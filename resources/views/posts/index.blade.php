@@ -6,7 +6,7 @@
 
         <h1 class="text-5xl uppercase bold">
             
-            MY POSTS
+            MY INDEX POSTS
         </h1>
     </div>
    
